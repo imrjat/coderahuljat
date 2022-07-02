@@ -6,7 +6,7 @@
 - :star: I use daily ```.php```,```.js```,``` .py```, ```.sql```, ```.mongodb```
 - 🌱 I’m currently learning data structures and algorithms in Python(100DaysOfDataStructure)
 - 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [rahuljat](https://rahuljat.com/) 
+- 📝 I regulary write articles on [rahuljat](https://rahuljat.in/) 
 
 ---
 
