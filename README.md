@@ -1,7 +1,7 @@
 ## Hey there, Rahul this side!
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🏦 I'm currently working for a product based company
+- 🏦 I'm currently working for firsteconomy.com
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :star: I use daily ```.php```,```.js```,``` .py```, ```.sql```, ```.mongodb```
 - 🌱 I’m currently learning data structures and algorithms in Python(100DaysOfDataStructure)
